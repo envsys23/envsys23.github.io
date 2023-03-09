@@ -35,23 +35,8 @@ body{
     line-height:1.5em;
     margin: 60px auto;
     width: 1000px;
-    
-    
-  display: grid;
-  padding: 2rem;
-  grid-template-columns: 300px 1fr;
-  gap: 1rem;
-  align-items: center;
-  max-width: 800px;
+
 }
-
-
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 
 
 a{color: #b8860b; text-decoration:none;}
